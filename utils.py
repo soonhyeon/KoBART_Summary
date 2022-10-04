@@ -1,5 +1,6 @@
 import re
 
+
 def calcul_simil(ori_sent, smm_sent):
     ori_sent_tokens = ori_sent.split(" ")
     smm_sent_tokens = smm_sent.split(" ")
